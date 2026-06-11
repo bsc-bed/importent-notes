@@ -1,12 +1,16 @@
-🚀 Overview
-Ye platform B.Sc. B.Ed. students ke liye banaya gaya hai taaki wo apne subject-wise notes aur previous year papers aasani se access kar sakein.
-🛠 Features
-Academic Resources: Physics, Maths (Calculus), Chemistry, Zoology, aur Botany ke liye important notes.
-Previous Year Papers: 2024-2025 ke papers ka access.
-Interactive UI: Click-based navigation.
-👨‍💻 Developer Contact
-Is portal ko design aur develop kiya hai:
-Name: Suresh Jaat
+SSD Project
+Welcome to this project.
+Developer
+Suresh Jaat
+Powered By
+SSD (Suresh Software Development)
+About
+This project is developed and maintained by Suresh Jaat under SSD. The goal of this project is to provide reliable, efficient, and user-friendly solutions.
+Copyright
+Copyright © 2026 Suresh Jaat
+License
+Licensed under the Apache License, Version 2.0.
+
 Mobile: 9351072478
 Email: sureshjaat33772@gmail.com
 Powered By SSD 🚀
